@@ -19,8 +19,9 @@ A brief description of what this project does and who it's for
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot](https://github.com/PANCHOv96/RickAndMorty/blob/main/src/assets/RickAndMorty.png)
+![App Screenshot](https://github.com/PANCHOv96/RickAndMorty/blob/main/src/assets/RickAndMorty2.png)
+![App Screenshot](https://github.com/PANCHOv96/RickAndMorty/blob/main/src/assets/RickAndMorty3.png)
 
 ## Instalación
 
