@@ -1,8 +1,64 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# RickAndMorty
 
-Currently, two official plugins are available:
+A brief description of what this project does and who it's for
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Características Aprendidas
+
+- Responsive ✅
+- TailwindCSS ✅
+- Fetch Api ✅
+- Mocks (evitar llamados a la api constantemente al incio)✅
+- Hooks useCallback ✅
+- Hooks useRef ✅
+- Controlled Forms ✅
+- Debounce (esperar un rato despues de escribir para evitar la busqueda constantemente) ✅
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Instalación
+
+Instalar el proyecto con npm
+
+```bash
+  cd ./RickAndMorty
+  npm install 
+```
+
+## Ejecutar Localmente
+
+Para implementar este proyecto, ejecute
+
+```bash
+  cd ./RickAndMorty
+  npm run dev
+```
+
+## Demo
+
+https://rick-and-morty-panchov96.vercel.app/
+
+
+## Tecnologías utilizadas
+
+**Client:** React, TailwindCSS
+
+
+
+
+## Personas Desarrolladoras del Proyecto
+
+- [@panchov96](https://github.com/PANCHOv96)
+
+
+
+## Feedback
+
+Si tiene algún comentario, comuníquese conmigo en vallonefrancisco.dev@gmail.com
+
